@@ -4,6 +4,7 @@
     <test name="log4j test">
         <classes>
             <class name="PojoTest"/>
+            <class name="Log4JTest"/>
         </classes>
     </test>
 
